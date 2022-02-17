@@ -6,19 +6,15 @@ A Pomodoro timer application that keeps you focused and productive by scheduling
 
 ## How it works
 
-![pomodorotechnique](https://user-images.githubusercontent.com/89039793/154575738-af185653-9652-41a3-b16f-5228ec7b93a0.png)
+1) Identify your tasks for the day
 
+2) Start the 25 minute timer
 
+3) Work for the duration of the timer
 
-Step 1: Pick a task
+4) Take a 5 minute break
 
-Step 2: Start the 25 minute timer
-
-Step 3: Focus on a single task until the timer rings
-
-Step 4: Take a 5 minute break
-
-Step 5: After 4 pomodoro sessions, take a longer 15 minute break
+5) After 4 pomodoro sessions, take a longer 15 minute break
 
 ## Preview
 
