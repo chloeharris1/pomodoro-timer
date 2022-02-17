@@ -20,6 +20,6 @@ Step 5: After 4 pomodoro sessions, take a longer 15 minute break
 
 ![Pomodoro](https://user-images.githubusercontent.com/89039793/154572657-713488ce-2d04-4123-bb41-621b340b7375.gif)
 
-
 ## App Link
+
 https://chloeharris1.github.io/pomodoro-timer/
