@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro-timer",
+  "version": "1.0.0",
+  "description": "A Pomodoro timer application that keeps you focused and productive by scheduling work and break sessions consecutively.",
+  "main": "main.js",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chloeharris1/Pomodoro-timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chloeharris1/Pomodoro-timer/issues"
+  },
+  "homepage": "https://github.com/chloeharris1/Pomodoro-timer#readme"
+}
