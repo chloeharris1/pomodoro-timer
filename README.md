@@ -6,6 +6,10 @@ A Pomodoro timer application that keeps you focused and productive by scheduling
 
 ## How it works
 
+![pomodorotechnique](https://user-images.githubusercontent.com/89039793/154575738-af185653-9652-41a3-b16f-5228ec7b93a0.png)
+
+
+
 Step 1: Pick a task
 
 Step 2: Start the 25 minute timer
